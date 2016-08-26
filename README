@@ -1,0 +1,10 @@
+Ophiuchus Alpha String Database
+
+This project attempts to implement various data structures for String keys.
+
+The following data structures will be implemented
+  > Trie
+  > Radix Trie
+  > Suffix Tree
+  > Modification Graph
+  > Histogram Table
